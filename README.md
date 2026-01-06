@@ -69,5 +69,12 @@ Minha missão é unir a lógica analítica da contabilidade com a engenharia de 
   <a href="https://github.com/joemust0">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joemust0&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joemust0&layout=compact&theme=dracula"/>
+    
   </a>
 </div>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joemust0)](https://github.com/anuraghazra/github-readme-stats)
+
+<!---
+
+joemust0/joemust0 is a ✨ special ✨ repository
